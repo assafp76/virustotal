@@ -18,3 +18,5 @@ for row in reader:
  
  and inserted into sqlite3 db
  
+ needed to hide api key and wrap it with try and catch...
+ 
